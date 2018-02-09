@@ -1,7 +1,6 @@
 *.pyc
 *.ckpt
 *.cache
-models
 summary
 .idea
 *.ini
